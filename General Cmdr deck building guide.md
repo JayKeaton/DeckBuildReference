@@ -277,7 +277,8 @@ As you play your deck, you'll understand it better and you certainly think of wa
 - Swap your deck's Commander\
   That one is a bit sad, but the Commander that you selected back at the start of the adventure might not be the best at executing your deck's gameplan. Check [EdhRec strategy page](https://edhrec.com/tags) to see if there is a card that beat your Commander at their job. If you find a better one, you can always put your old Commander in the 99.
 ### Case Study: Tune your deck
-[Here](https://tappedout.net/mtg-decks/6-final-deck/) you'll find the final version of my deck. As I play it the deck shall change with time.
+[Here](https://tappedout.net/mtg-decks/6-aristocratic-gentlemen) you'll find the final version of my deck. As I play it the deck shall change with time but the strategy will stay the same. Now that I have mostly finished building my deck it's much easier to name it. Let's go with "Aristocratic Gentlemen" for this one.\
+I also did an alternate version ["Gentlemen's rise"](https://tappedout.net/mtg-decks/7-gentlemens-rise) of this deck that explore a theme I did not kept for the main deck: the zombie token tribal. I built the deck for a playgroup that prefer lesser powerlevel. 
 # Play on Cockatrice
 - Install [Cockatrice](https://cockatrice.github.io/)
 - Import your deck:
