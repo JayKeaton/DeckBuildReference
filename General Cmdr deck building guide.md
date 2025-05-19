@@ -13,7 +13,8 @@ Commander's cards can be appealing in many ways:
 - you are involved in the card's lore
 - the card's effect is fun
 - the card's mana colour have mechanics you like
-- the card's strategy is strong\
+- the card's strategy is strong
+
 So you should not have too much trouble finding one you like. However the most important criteria to chose a commander are the following:
 - Playgroup compatibility\
   Talk to your playgroup to ask them what power level they want to play at and which limitations they put on the decks.
@@ -175,6 +176,7 @@ What can be learnt from those numbers:
 - I currently don't have enough Zombies. This offer me two choices:
 	- When searching for new cards, like additional Token cards, I'll will prioritize the one that make zombies
 	- If I realize that there is not enough remaining slots in my deck to support a Zombie tribal gameplan, I'll consider Zombie as Complementary and cut the cards that tried to pay-off on them, like the zombie Lords
+
 [Here](https://tappedout.net/mtg-decks/2-add-the-labels/) is the deck with the labels
 ## Build your mana base
 The goal with the mana base is to strike the right balance between mana abundance and rarity. Without enough mana cards you won't be able to play your fun cards, and with too much mana cards you won't have card to play except mana. The right number of mana source will depend on how much our deck require mana to start working.
@@ -276,6 +278,18 @@ As you play your deck, you'll understand it better and you certainly think of wa
 	- With Scryfall you can search specific keywords to discover new cards
 - Swap your deck's Commander\
   That one is a bit sad, but the Commander that you selected back at the start of the adventure might not be the best at executing your deck's gameplan. Check [EdhRec strategy page](https://edhrec.com/tags) to see if there is a card that beat your Commander at their job. If you find a better one, you can always put your old Commander in the 99.
+- Maximise your card's utility through the game
+  A card's utility vary depending on your game state. The best cards are those that perform the best accross those 4 situations:
+  - Development phase
+    The 1st part of the game, when players focus on building their boards and resources rather than winning. Ramp and mana rock are prime example of Development cards.
+  - Behind state
+    Happens when player have better board/resources and threaten to win before you can. Board wipes and interactions are excellent Behind cards examples.
+  - Parity state
+    Parity is when the players get in a stale mate where no one dominate the board so no one can afford to attack another player. The best Parity cards are the one that allow you to bypass the opponents defense: one sided board wipes, massive army boost, making your best attacker unblockable, ...
+  - Ahead state
+    TODO
+  Re-evaluate your cards with this Development/Behind/Parity/Ahead framework in mind. Avoid the cards that perform in only case if it's already covered by other cards. Pick the cards that perform well in each situation.\
+  This framework known as the quadrant theory and derives from a framework for evaluating cards in the limited format. However, when searching the term, you might not find it as your 1st search result. That's because, each time a Magic player have an idea in four parts, they call it a quadrant theory.
 ### Case Study: Tune your deck
 [Here](https://tappedout.net/mtg-decks/6-aristocratic-gentlemen) you'll find the final version of my deck. As I play it the deck shall change with time but the strategy will stay the same. Now that I have mostly finished building my deck it's much easier to name it. Let's go with "Aristocratic Gentlemen" for this one.\
 I also did an alternate version ["Gentlemen's rise"](https://tappedout.net/mtg-decks/7-gentlemens-rise) of this deck that explore a theme I did not kept for the main deck: the zombie token tribal. I built the deck for a playgroup that prefer lesser powerlevel. 
