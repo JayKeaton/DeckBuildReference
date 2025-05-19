@@ -280,16 +280,17 @@ As you play your deck, you'll understand it better and you certainly think of wa
   That one is a bit sad, but the Commander that you selected back at the start of the adventure might not be the best at executing your deck's gameplan. Check [EdhRec strategy page](https://edhrec.com/tags) to see if there is a card that beat your Commander at their job. If you find a better one, you can always put your old Commander in the 99.
 - Maximise your card's utility through the game
   A card's utility vary depending on your game state. The best cards are those that perform the best accross those 4 situations:
-  - Development phase
+  - Development phase\
     The 1st part of the game, when players focus on building their boards and resources rather than winning. Ramp and mana rock are prime example of Development cards.
-  - Behind state
+  - Behind state\
     Happens when player have better board/resources and threaten to win before you can. Board wipes and interactions are excellent Behind cards examples.
-  - Parity state
+  - Parity state\
     Parity is when the players get in a stale mate where no one dominate the board so no one can afford to attack another player. The best Parity cards are the one that allow you to bypass the opponents defense: one sided board wipes, massive army boost, making your best attacker unblockable, ...
-  - Ahead state
-    TODO
-  Re-evaluate your cards with this Development/Behind/Parity/Ahead framework in mind. Avoid the cards that perform in only case if it's already covered by other cards. Pick the cards that perform well in each situation.\
-  This framework known as the quadrant theory and derives from a framework for evaluating cards in the limited format. However, when searching the term, you might not find it as your 1st search result. That's because, each time a Magic player have an idea in four parts, they call it a quadrant theory.
+  - Ahead state\
+    You are in the lead when you have clear advantage over the other players, either through board state or resources. But with 3 other players at the table, you might not keep that lead for long once other players decide to take you down. That's why you need Ahead card to transform a lead into a win... or into another player's defeat.
+
+  Re-evaluate your cards with this Development/Behind/Parity/Ahead framework in mind. Avoid the cards that perform in only one case if it's already covered by other cards. Pick the cards that perform well in each situations.\
+  This framework known as the [quadrant theory](https://www.youtube.com/shorts/fU-BHhnihWs) and derives from a framework for evaluating cards in the limited format. However, when searching the term, you might not find it as your 1st search result. That's because, each time a Magic player have an idea in four parts, they call it a quadrant theory.
 ### Case Study: Tune your deck
 [Here](https://tappedout.net/mtg-decks/6-aristocratic-gentlemen) you'll find the final version of my deck. As I play it the deck shall change with time but the strategy will stay the same. Now that I have mostly finished building my deck it's much easier to name it. Let's go with "Aristocratic Gentlemen" for this one.\
 I also did an alternate version ["Gentlemen's rise"](https://tappedout.net/mtg-decks/7-gentlemens-rise) of this deck that explore a theme I did not kept for the main deck: the zombie token tribal. I built the deck for a playgroup that prefer lesser powerlevel. 
